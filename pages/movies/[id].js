@@ -13,7 +13,7 @@ export default function id() {
         <Header />
         <div className="mx-20 my-20 space-y-20">
           <Center />
-          <Bottom />
+          <Bottom className="" />
         </div>
       </main>
     </div>

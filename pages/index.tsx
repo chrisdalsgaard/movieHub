@@ -15,7 +15,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <div></div>
+        <div>
+          <p>here goes the main movie page....lists within catagories</p>
+        </div>
       </main>
     </div>
   );
